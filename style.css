@@ -1,0 +1,13 @@
+body {
+  background: black;
+}
+
+#img1 {
+  width: 700px;
+  border: none;
+}
+
+.imgbtn {
+  border: none;
+  background: none;
+}
